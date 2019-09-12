@@ -4,3 +4,7 @@ word_list_processed文件中有四个单词集数据，格式为txt，数据形�
 word_list_unprocessed文件中是未经过处理的单词集或字典原数据；
 
 word_delete.py是用来处理单词数据的程序，可通过适当修改方便使用；
+
+create_string.py使用随机数挑选单词生成长度不一的字符串（但都由正常单词构成）
+
+string.txt包含10000个字符串，且均为完整单词生成的字符串
