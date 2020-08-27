@@ -18,20 +18,20 @@ process_string.py将1000个字符串进行按照编辑距离从0-9对string0.txt
 string_final0-9.txt由10个改造后的文本合成的新1000个字符串数据，其中1000条没有改变，1000条改为与原串ED=1的字符串，...，1000条与原串ED=9的字符串；
 
 middle_file文件夹中包含改造过程中string0.txt-string9.txt、string_ed1.txt-string_ed9.txt等中间文件，方便以后取用；
-    notecolor.shrink_to_fit()();
-    Ai.shrink_to_fit()();
-    Min.shrink_to_fit()();
-    trans_notecolor.shrink_to_fit()();
-    count_notecolor.shrink_to_fit()();
-    fixed_word.shrink_to_fit()();
-    test_str_segment.shrink_to_fit()();
-    test_str_segment_index.shrink_to_fit()();
-    tmp_index.shrink_to_fit()();
-    segment_candidate_set.shrink_to_fit()();
-    min_seds.shrink_to_fit()();
-    segment_candidate_score.shrink_to_fit()();
-    segment_candidate_score_final.shrink_to_fit()();
-    sed_final.shrink_to_fit()();
-    emtmp.shrink_to_fit()();
-    segment_candidate_score_final.shrink_to_fit()();
+    notecolor.shrink_to_fit();
+    Ai.shrink_to_fit();
+    Min.shrink_to_fit();
+    trans_notecolor.shrink_to_fit();
+    count_notecolor.shrink_to_fit();
+    fixed_word.shrink_to_fit();
+    test_str_segment.shrink_to_fit();
+    test_str_segment_index.shrink_to_fit();
+    tmp_index.shrink_to_fit();
+    segment_candidate_set.shrink_to_fit();
+    min_seds.shrink_to_fit();
+    segment_candidate_score.shrink_to_fit();
+    segment_candidate_score_final.shrink_to_fit();
+    sed_final.shrink_to_fit();
+    emtmp.shrink_to_fit();
+    segment_candidate_score_final.shrink_to_fit();
 
